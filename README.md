@@ -1,2 +1,11 @@
-# digital-notes-management-system
-A Digital Notes Management System that lets users create, organize, color-code, search, pin, and export notes as PDFs. With secure login, categories, and an easy dashboard, it helps students and professionals manage study materials, work notes, and tasks efficiently.
+# Fake News Detection Frontend
+
+This is a small Vite + React frontend that calls the backend /predict endpoint.
+
+Setup
+
+1. cd frontend
+2. npm install
+3. npm run dev
+
+Open http://localhost:3000
